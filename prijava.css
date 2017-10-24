@@ -1,0 +1,45 @@
+body
+{
+	background-color: #fff;
+	font-style: "Times New Roman";
+}
+#kontenjer
+{
+	text-align: center;
+	margin: auto;
+	margin-top: 200px;
+	width: 350px;
+	height: 300px;
+	background-color: #f4f4f4;
+	border: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+p
+{
+	color: white;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	font-size: 20px;
+	background-color: #2c9aba;
+}
+#unos 
+{
+	border: 2px solid #2c9aba;
+	color: #203d7e;
+	background-color: #fff;
+	width: 280px;
+	height: 30px;
+	margin-top: 10px;
+	text-align: center;
+	font-size: 15px;
+}
+#prijava
+{
+	background-color: #2c9aba;
+	border: 0px;
+	color: white;
+	margin-top: 10px;
+	width: 100px;
+	height: 30px;
+    box-shadow: 5px 5px 5px grey;
+}

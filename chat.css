@@ -1,0 +1,132 @@
+body
+{
+	background-color: #fff;
+	font-style: "Times New Roman", sans-serif;
+}
+#kontenjer
+{
+	width: 900px;
+	height: 800px;
+	text-align: left;
+	margin: auto;
+	border: 0px;
+	background-color: #fff;
+	box-shadow: 5px 5px 5px grey;
+}
+#zaglavlje
+{
+	width: 100%;
+	height: 60px;
+	background-color: #2c9aba;
+}
+table
+{
+	width: 100%;
+	height: 100%;
+}
+td
+{
+	border: 0px;
+}
+#korisnickoIme
+{
+	font-size: 20px;
+	width: 30%;
+	border: 0px;
+	text-align: left;
+	padding-left: 20px;
+	color: #e40000;
+}
+#odj
+{
+	width: 70%;
+	text-align: right;
+	padding-right: 30px;
+}
+#slikaOdjava
+{
+	width: 50px;
+	height: 50px;
+	background-color: transparent;
+	color: transparent;
+	border: 0px;
+	background-image: url("odjava.png");
+}
+
+#polje
+{
+	width: 99%;
+	height: 80%;
+	overflow: scroll;
+	margin-top: 2px;
+	overflow-x: hidden;
+	overflow: auto;
+}
+
+#poruka
+{
+	margin-left: 20px;
+	margin-top: 10px;
+	border: 1px solid #2c9aba;
+	height: 40px;
+	width: 80%;
+	color: #2c9aba;
+}
+#posalji
+{
+	margin-left: 50px;
+	width: 35px;
+	height: 35px;
+	border: 0px;
+	color: transparent;
+	background-color: transparent;
+	background-image: url("send.png");
+}
+
+#tekstPoruke
+{
+	color: #fff;
+	width: 600px;
+	height: 80px;
+	background: #2c9aba;
+	border-radius: 5px;
+	margin-top: 15px;
+	margin-left: 30px;
+	font-size: 20px;
+}
+
+#korisnik
+{
+	margin-left: 15px;
+	color: #e40000;
+	width: 100px;
+	height: 80px;
+	border: 0px;
+	font-size: 30px;
+	
+
+}
+#vrijeme
+{
+	font-size: 18px;
+	color: #000;
+}
+
+#tekstPoruke1
+{
+	color: #fff;
+	width: 600px;
+	height: 80px;
+	background: #55d04f;
+	border-radius: 5px;
+	margin-top: 15px;
+	margin-left: 270px;
+	font-size: 20px;
+}
+#text
+{
+	margin-left: 130px;
+	margin-top: -75px;
+}
+
+
